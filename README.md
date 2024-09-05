@@ -4,12 +4,17 @@ The game features increasing difficulty with levels, scoring based on avoided ca
 
 **Features**
 **Player Controls**: Control your car using the arrow keys.
-**Enemy Vehicles**: Avoid enemy vehicles that appear randomly on the road.
-**Level Progression**: Difficulty increases with time, adding more vehicles and speed.
+**Enemy Vehicles**: Avoid enemy vehicles that 
+appear randomly on the road.
+**Level Progression**: Difficulty increases with time, 
+adding more vehicles and speed.
 **Score System**: Score points by avoiding enemy cars.
-**Smooth Animations**: Road animation and enemy car movement are fluid and seamless.
-**Sound Effects**: Integrated sound effects for collisions and background music.
-**Pause and Resume**: Press 'P' to pause and resume the game at any time.
+**Smooth Animations**: Road animation and enemy car
+movement are fluid and seamless.
+**Sound Effects**: Integrated sound effects for
+collisions and background music.
+**Pause and Resume**: Press 'P' to pause and resume
+the game at any time.
 
 **Prerequisites**
 **Python 3.x**: Ensure Python is installed on your system.
